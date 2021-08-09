@@ -5,14 +5,23 @@ I would suggest doing this process on a system that has a public IP address so t
 
 First step is to git clone this project and then cd in it's directory
 
-then pip install argparse and stockfish
-
+then:
+```
+pip install argparse
+```
+```
+pip install stockfish
+```
 in your terminal on a linux machine write
-
+```
 wget https://stockfishchess.org/files/stockfish-10-linux.zip
+```
+```
 unzip stockfish-10-linux.zip
+```
+```
 chmod +x stockfish-10-linux/Linux/stockfish_10_x64
-
+```
 this will download and unzip stockfish to this directory and will change the privileges
 
 
