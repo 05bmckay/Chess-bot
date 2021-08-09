@@ -25,3 +25,6 @@ chmod +x stockfish-10-linux/Linux/stockfish_10_x64
 this will download and unzip stockfish to this directory and will change the privileges
 
 
+Then move all these files out of this folder and into the home directory
+
+
