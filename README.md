@@ -1,5 +1,6 @@
 # Chess-bot
 
+This repository goes along with a medium blog I made for creating an SMS chess bot. The blog post is here: https://05bmckay.medium.com/sms-chess-bot-with-twilio-python-and-integromat-333a259a899a
 
 I would suggest doing this process on a system that has a public IP address so that you can use the SSH functionality in Integromat without needing to use a tunneler like Ngrok.
 
